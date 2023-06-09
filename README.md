@@ -19,3 +19,4 @@ Distribución y clonación: Los repositorios se pueden distribuir y clonar, lo q
 Plataformas de alojamiento: Existen plataformas en línea, como GitHub, GitLab y Bitbucket, que ofrecen servicios de alojamiento de repositorios. Estas plataformas permiten a los equipos compartir y colaborar en proyectos de manera eficiente, además de proporcionar herramientas adicionales como seguimiento de problemas, solicitudes de extracción y revisión de código.# reporemotoconreadme
 Un repositorio remoto con README
 Los repositorios son una parte fundamental del desarrollo y la gestión de proyectos, ya que facilitan la colaboración, el seguimiento de cambios y la preservación del historial del proyecto.
+Nueva linea de texto para ver la modificacion.
